@@ -17,10 +17,36 @@
 
 <h2>🎥 Demo</h2>
 <p>
-    Include links to any live demos, screenshots, or video walkthroughs here.
-</p>
-<img src="screenshot-url" alt="Project Screenshot" />
-<a href="demo-link">Live Demo</a>
+    <p align="center">
+Home: <br/>
+<img src="https://i.imgur.com/PsfW92C.png"/>
+<br />
+<br />
+About: <br/>
+<img src="https://i.imgur.com/0TLWwsK.png"/>
+<br />
+<br />
+Work Experience: <br/>
+<img src="https://i.imgur.com/njrP97x.png"/>
+<br />
+<br />
+Tech Deck: <br/>
+<img src="https://i.imgur.com/HwfwgVk.png"/>
+<br />
+<br />
+Projects: <br/>
+<img src="https://i.imgur.com/vz2jIhN.png"/>
+<br />
+<br />
+Testimonials: <br/>
+<img src="https://i.imgur.com/ByXpBCS.png"/>
+<br />
+<br />
+Contact Me: <br/>
+<img src="https://i.imgur.com/NY7C9Id.png"/>
+<br />
+<br />
+
 
 <h2>📄 License</h2>
 <p>
