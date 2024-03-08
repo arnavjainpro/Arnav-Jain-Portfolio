@@ -70,5 +70,5 @@ npm run deploy
 <div class="contact-info">
     <p><strong>Name:</strong> Arnav Jain</p>
     <p><strong>Email:</strong> <a href="mailto:your.email@example.com">arnavjainpro@gmail.com</a></p>
-    <p><strong>Project Link:</strong> <a href="https://github.com/yourusername/yourprojectname">https://github.com/arnavjainpro/Arnav-Jain-Portfolio</a></p>
+    <p><strong>Project Link:</strong> <a href="https://github.com/yourusername/yourprojectname">https://github.com/arnavjainpro/Arnav-Jain-Portfolio/tree/main</a></p>
 </div>
