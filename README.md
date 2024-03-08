@@ -1,12 +1,10 @@
 <h1>👨‍💻 Arnav Jain Personal Portfolio</h1>
 
 <h2>✍️Overview</h2>
-<p>
-    
-      This website serves to introduce myself as a developer in an engaging way where the viewer can play around 
-      with 3d models and view unique animations.
-
-</p>
+<pre class="code-block">
+This website serves to introduce myself as a developer in an engaging way where the viewer can play around with 3d models 
+and view unique animations.
+</pre>
 
 <h2>🌟 Features</h2>
 <ul class="feature-list">
@@ -18,35 +16,34 @@
 <h2>🎥 Demo</h2>
 <p>
     <p align="center">
-Home: <br/>
+Home <br/>
 <img src="https://i.imgur.com/PsfW92C.png"/>
 <br />
 <br />
-About: <br/>
+About <br/>
 <img src="https://i.imgur.com/0TLWwsK.png"/>
 <br />
 <br />
-Work Experience: <br/>
+Work Experience <br/>
 <img src="https://i.imgur.com/njrP97x.png"/>
 <br />
 <br />
-Tech Deck: <br/>
+Tech Deck <br/>
 <img src="https://i.imgur.com/HwfwgVk.png"/>
 <br />
 <br />
-Projects: <br/>
+Projects <br/>
 <img src="https://i.imgur.com/vz2jIhN.png"/>
 <br />
 <br />
-Testimonials: <br/>
+Testimonials <br/>
 <img src="https://i.imgur.com/ByXpBCS.png"/>
 <br />
 <br />
-Contact Me: <br/>
+Contact Me <br/>
 <img src="https://i.imgur.com/NY7C9Id.png"/>
 <br />
 <br />
-
 
 <h2>📄 License</h2>
 <p>
