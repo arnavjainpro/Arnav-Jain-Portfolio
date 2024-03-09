@@ -33,7 +33,7 @@ Tech Deck <br/>
 <br />
 <br />
 Projects <br/>
-<img src="https://i.imgur.com/vz2jIhN.png"/>
+<img src="https://i.imgur.com/h1zz49r.png"/>
 <br />
 <br />
 Testimonials <br/>
