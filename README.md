@@ -45,11 +45,6 @@ Contact Me <br/>
 <br />
 <br />
 
-<h2>📄 License</h2>
-<p>
-    This project is licensed under the (insert license of the website)
-</p>
-
 <h2>📦 Installation</h2>
 <pre class="code-block">
 git clone https://github.com/arnavjainpro/Arnav-Jain-Portfolio.git
