@@ -55,7 +55,7 @@ npm start
 
 <h2>🔍 Usage</h2>
 <pre class="code-block">
-npm run deploy
+npm run dev
 </pre>
 
 <h2>📬 Contact</h2>
